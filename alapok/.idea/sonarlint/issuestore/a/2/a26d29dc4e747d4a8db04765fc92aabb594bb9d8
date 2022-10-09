@@ -1,0 +1,43 @@
+
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õÏËèúÿÿÿÿ8Ä÷Ã˜ê/
+R
+java:S1854"<Remove this useless assignment to local variable "animal11".(Ôøû
+^
+java:S1854"<Remove this useless assignment to local variable "animal13".(ôÀ¤ìøÿÿÿÿ8ÜãÑ˜ê/
+R
+java:S1854"<Remove this useless assignment to local variable "animal10".(Úíæ
+]
+java:S1854";Remove this useless assignment to local variable "animal8".(å©ŠÌøÿÿÿÿ8ø°Ç˜ê/
+X
+java:S1854";Remove this useless assignment to local variable "animal7".(§ÁğÄ8ÙÃÓ˜ê/
+X
+java:S1854";Remove this useless assignment to local variable "animal6".(Ó©ıÔ8ø°Ç˜ê/
+]
+java:S1854";Remove this useless assignment to local variable "animal3".(ìòñ¾ùÿÿÿÿ8ÜãÑ˜ê/
+]
+java:S1854";Remove this useless assignment to local variable "animal2".(ÛŞ×‚úÿÿÿÿ8®±Ú˜ê/
+X
+java:S1854";Remove this useless assignment to local variable "animal1".(Ïš€–8ÜãÑ˜ê/
+X	java:S125"<This block of commented-out lines of code should be removed.(²ÕµÃ8Â±âšê/
+B
+java:S1481",Remove this unused "animal1" local variable.(Ïš€–
+G
+java:S1481",Remove this unused "animal2" local variable.(ÛŞ×‚úÿÿÿÿ
+G
+java:S1481",Remove this unused "animal3" local variable.(ìòñ¾ùÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(ÀúÆ°ùÿÿÿÿ8âîŸ¦ê/
+I
+java:S1481",Remove this unused "animal6" local variable.(Ó©ıÔ8†¦Í˜ê/
+I
+java:S1481",Remove this unused "animal7" local variable.(§ÁğÄ8¦Í˜ê/
+N
+java:S1481",Remove this unused "animal8" local variable.(å©ŠÌøÿÿÿÿ8¦Í˜ê/
+X	java:S125"<This block of commented-out lines of code should be removed.(ÒÅÂÅ8ğËÔ˜ê/
+J
+java:S1481"-Remove this unused "animal10" local variable.(Úíæ8£™Ò˜ê/
+O
+java:S1481"-Remove this unused "animal13" local variable.(ôÀ¤ìøÿÿÿÿ8éÃÓ˜ê/
+J
+java:S1481"-Remove this unused "animal11" local variable.(Ôøû8£™Ò˜ê/
+X	java:S125"<This block of commented-out lines of code should be removed.(åÅÌ°8ÀñÚ˜ê/

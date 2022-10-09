@@ -1,0 +1,10 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "number".(É›ì±
+X	java:S125"<This block of commented-out lines of code should be removed.(þÅ¾”8­šÙÏ/
+]	java:S125"<This block of commented-out lines of code should be removed.(¼õïÍùÿÿÿÿ8…¹žÙÏ/
+X	java:S125
+"<This block of commented-out lines of code should be removed.(ÿîÝ8óûœÙÏ/
+A
+java:S1481"+Remove this unused "number" local variable.(É›ì±
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®£Åàüÿÿÿÿ

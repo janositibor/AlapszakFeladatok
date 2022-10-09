@@ -1,0 +1,15 @@
+
+m	java:S116"SRename this field "MIN_HOUR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¡øúÿÿÿÿ
+h	java:S116"SRename this field "MAX_HOUR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒµÑã
+o	java:S116"URename this field "MIN_MINUTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÁ¡úÿÿÿÿ
+j	java:S116"URename this field "MAX_MINUTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¼¼æ
+\
+java:S11262"AReplace this if-then-else statement by a single return statement.(Ÿ®Àëşÿÿÿÿ
+J
+java:S1656D"/Remove or correct this useless self-assignment.(ˆ©°Íıÿÿÿÿ
+E
+java:S1656E"/Remove or correct this useless self-assignment.(ìÂòÉ
+z
+java:S4165E"dRemove this useless assignment; "minute" already holds the assigned value along all execution paths.(ìÂòÉ
+}
+java:S4165D"bRemove this useless assignment; "hour" already holds the assigned value along all execution paths.(ˆ©°Íıÿÿÿÿ

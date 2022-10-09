@@ -1,0 +1,4 @@
+
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(¤ß¼·8éÏ·¦Ð/
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú˜˜»ùÿÿÿÿ8»¥º¦Ð/

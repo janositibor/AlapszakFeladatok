@@ -1,0 +1,13 @@
+
+o
+java:S1450
+"TRemove the "taste" field and declare it as a local variable in the relevant methods.(Ñø½ÿÿÿÿÿ
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8àß÷ûó/
+>
+java:S1068"(Remove this unused "type" private field.(Ä³œ
+@
+java:S1068	"*Remove this unused "weight" private field.(Õ×È
+D
+java:S1068
+")Remove this unused "taste" private field.(Ñø½ÿÿÿÿÿ

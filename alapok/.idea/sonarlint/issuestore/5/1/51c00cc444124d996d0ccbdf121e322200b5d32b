@@ -1,0 +1,11 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ò¨¹‹
+Q	java:S125"<This block of commented-out lines of code should be removed.(ƒ·¥ú
+L
+java:S1481"6Remove this unused "undefinedVariable" local variable.(äßÉª
+Q	java:S1253"<This block of commented-out lines of code should be removed.(›ƒøï
+r
+java:S1192"PDefine a constant instead of duplicating this literal "Value of a is: " 3 times.(õõê°ùÿÿÿÿ8ÔÙûÏ/
+H
+java:S1199+"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÛÅ·8šˆèûÏ/

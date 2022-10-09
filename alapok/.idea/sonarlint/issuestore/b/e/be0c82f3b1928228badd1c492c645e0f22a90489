@@ -1,0 +1,18 @@
+
+^
+java:S2166"CRename this class to remove "exception" or correct its inheritance.(ˆş½şÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( …ˆ–8‚õ¶õŞ/
+u
+java:S1450"SRemove the "szam" field and declare it as a local variable in the relevant methods.(Â†Ãüÿÿÿÿ8ò–ÚõŞ/
+X	java:S125"<This block of commented-out lines of code should be removed.(íğÊà8‰õ¶õŞ/
+@
+java:S1181&"%Catch Exception instead of Throwable.(ÓÌËÉûÿÿÿÿ
+C	java:S108&")Either remove or fill this block of code.(ÓÌËÉûÿÿÿÿ
+H
+java:S1068"-Remove this unused "parameter" private field.(ı¤öÿÿÿÿÿ
+J
+java:S1068"(Remove this unused "szam" private field.(Â†Ãüÿÿÿÿ8é³ÙõŞ/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆş½şÿÿÿÿ
+.
+java:S1700"Rename field "exception"(ÈßÊª

@@ -1,0 +1,15 @@
+
+R
+java:S1854	"5Remove this useless assignment to local variable "b".(¡ŒßÂ8µñÉâÏ/
+R
+java:S1854"5Remove this useless assignment to local variable "a".(ïÂ‘á8µñÉâÏ/
+R
+java:S1854"5Remove this useless assignment to local variable "s".(Ôâı¾8µñÉâÏ/
+C
+java:S1481"&Remove this unused "s" local variable.(Ôâı¾8¶ñÉâÏ/
+]	java:S125"<This block of commented-out lines of code should be removed.(¢’èßÿÿÿÿÿ8˜ÊâÏ/
+C
+java:S1481"&Remove this unused "a" local variable.(ïÂ‘á8·ñÉâÏ/
+C
+java:S1481	"&Remove this unused "b" local variable.(¡ŒßÂ8¸ñÉâÏ/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öÌ¼Å

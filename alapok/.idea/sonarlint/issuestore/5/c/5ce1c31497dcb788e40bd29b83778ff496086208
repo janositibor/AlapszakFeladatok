@@ -1,0 +1,10 @@
+
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ŠúÀ¼ø/
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8šúÀ¼ø/
+t
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "output".(Œªüé
+t
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "output".(Œªüé
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ—õæ
